@@ -1,0 +1,9 @@
+.box {
+	display: block;
+	float: left;
+	width: 140px;
+	height: 140px;
+	margin: 200px 12px;
+	border: 2px solid;
+	cursor: pointer;
+}
